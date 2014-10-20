@@ -10,7 +10,6 @@ add2pl.py requires:
 - [fzf](https://github.com/junegunn/fzf)
 - [nyxmms2](https://xmms2.org/wiki/Main_Page)
 - Python (>= 3.0)
-fzf requires Ruby (>= 1.8.5)
 
 Usage
 -----
