@@ -21,7 +21,7 @@ Usage
 ./add2pl.py
 ```
 2. Start typing the title(s)/name(s) of the song(s)/artist(s)/album(s) you are looking for
-3. Navigate to song using arrow keys and press <enter> to select a song, and/or <tab> to select several and <enter> to finish
+3. Navigate to song using arrow keys and press enter to select a song, and/or tab to select several and enter to finish
 4. The selected songs have been added to the playlist, start playback if not already started
 ```sh
 nyxmms2 play
