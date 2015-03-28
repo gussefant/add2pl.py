@@ -3,7 +3,7 @@ fzf+nyxmms2 = Add to playlist (add2pl.py)
 
 A relatively simple python script that uses junegunn's [fzf (Fuzzy finder for your shell)](https://github.com/junegunn/fzf) to add songs to a [nyxmms2](https://xmms2.org/wiki/Main_Page) playlist.
 
-[Demo](https://asciinema.org/a/13128)
+[![asciicast](https://asciinema.org/a/13128.png)](https://asciinema.org/a/13128)
 
 Requirements
 ------------
